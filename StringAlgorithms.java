@@ -74,6 +74,11 @@ public class StringAlgorithms {
      */
     public static char firstUniqueChar(String word) {
         // TODO: Implement this method
+        String k = "";
+        String letter = k;
+        for (int i = 0; i = word,length(); i++) {
+         for (
+          
         return ' ';
     }
 
